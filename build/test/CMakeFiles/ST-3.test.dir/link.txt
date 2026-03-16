@@ -1,0 +1,1 @@
+/usr/bin/c++ "CMakeFiles/ST-3.test.dir/AllTests.cpp.o" "CMakeFiles/ST-3.test.dir/tests.cpp.o" -o ST-3.test  -Wl,-rpath,/mnt/c/Users/USER/ST-3/build/src: ../src/libST-3.so ../lib/libgtest.a ../lib/libgmock.a -lpthread ../lib/libgtest.a 

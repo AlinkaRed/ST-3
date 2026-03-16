@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -shared -Wl,-soname,libST-3.so -o libST-3.so "CMakeFiles/ST-3.dir/TimedDoor.cpp.o"  -lpthread 

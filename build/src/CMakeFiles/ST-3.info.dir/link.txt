@@ -1,0 +1,1 @@
+/usr/bin/c++ "CMakeFiles/ST-3.info.dir/main.cpp.o" -o ST-3.info  -Wl,-rpath,/mnt/c/Users/USER/ST-3/build/src: libST-3.so -lpthread 
